@@ -1,0 +1,1 @@
+A program that determines the change to be dispensed from a vending machine. An item in the machine can cost anywhere between 25 cents and a dollar, in 5 cent increments (25, 30, …,90, 95, 100) and accepts only a single dollar bill to pay for the item.
